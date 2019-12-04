@@ -1,5 +1,6 @@
-# Sneakers with CSS Grid
+# Sneakers 
 Code by Julian Hasse 2017
+Example of Isometric CSS Grid
 
 ## Quick Start
 ```bash
