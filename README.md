@@ -1,5 +1,5 @@
 # Sneakers 
-Code by Julian Hasse 2017.
+
 
 ## Quick Start
 ```bash
